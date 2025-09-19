@@ -2,7 +2,8 @@
 
 Informatics student, aspiring cybersecurity analyst. I will study, make, and do things that I find interesting, oftentimes irrelevant to my field of study. Generally lazy except at times when I feel otherwise.  
 
-![idobutidont's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idobutidont&theme=tokyonight&show_icons=true&hide_border=false) ![idobutidont's Stats](https://github-readme-stats.vercel.app/api?username=idobutidont&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=idobutidont&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idobutidont&theme=tokyonight&show_icons=true&hide_border=false" height="195"/>
+
 ---
 ### Tools, Platforms, and Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)  
