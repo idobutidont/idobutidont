@@ -3,6 +3,7 @@
 Informatics student, aspiring cybersecurity analyst. I will study, make, and do things that I find interesting, oftentimes irrelevant to my field of study. Generally lazy except at times when I feel otherwise.  
 
 <img src="https://github-readme-stats.vercel.app/api?username=idobutidont&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idobutidont&theme=tokyonight&show_icons=true&hide_border=false" height="195"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=idobutidont&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ### Tools, Platforms, and Tech Stack
